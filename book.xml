@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book id="1">
+		<name>java基础知识</name>
+		<author>java之父</author>
+		<year>1990-01-01</year>
+	</book>
+	<book id="2">
+		<name>MySQL基础知识</name>
+		<author>教授</author>
+		<year>2012-05-05</year>
+		<language>English</language>
+	</book>
+</bookstore> 
